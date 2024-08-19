@@ -30,7 +30,8 @@ while True:
     if opcion == 3:
        print("Nos vemo, chau")
        break
-
+    
+print("FIN")
        # print("No has ingresado ninguna nota")
        # print(menu)
 
